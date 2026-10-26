@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Chat — Gemini-powered assistant (Next.js)
 
 A ChatGPT-style AI chat application built with the Next.js App Router, Google's
@@ -150,3 +151,6 @@ lib/
 drizzle/                  generated SQL migrations
 types/                    shared TypeScript types
 ```
+=======
+# -Lumen---Thinking-Partner
+>>>>>>> 1275c738fea2e135650e89cd4f99a42897dd2a73
